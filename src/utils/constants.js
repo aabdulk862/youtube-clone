@@ -34,6 +34,9 @@ export const categories = [
   { name: "Crypto", icon: <DeveloperModeIcon /> },
 ];
 
+// Adam's youtube: /channel/UCMZnWHRXid4W72gN8TsRuKA
+// JSM Mastery youtube: /channel/UCmXmlB4-HJytD7wek0Uo97A
+
 export const demoThumbnailUrl = "https://i.ibb.co/G2L2Gwp/API-Course.png";
 export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
 export const demoVideoUrl = "/video/GDa8kZLNhJ4";
